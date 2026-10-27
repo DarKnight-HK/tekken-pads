@@ -4,7 +4,8 @@ Play local two-player games on Linux with **two keyboards that use the same keys
 
 Each connected keyboard becomes its own virtual Xbox-style gamepad, so the game sees two separate controllers. Built for Tekken 7 (Steam / Proton), but it works with any game that supports gamepads.
 
-This is a Linux alternative to [djlastnight's Keyboard Splitter](https://github.com/djlastnight/Keyboard-Splitter), which is Windows-only.
+This is a Linux alternative to [djlastnight's Keyboard Splitter](https://github.com/djlastnight/KeyboardSplitterXbox), which is Windows-only.
+
 
 ## Features
 
@@ -149,4 +150,4 @@ sudo chrt -f 50 python tekken_pads.py
 
 ## Credits
 
-Inspired by [djlastnight's Keyboard Splitter](https://github.com/djlastnight/Keyboard-Splitter) for Windows. Not affiliated with it, or with Bandai Namco or Valve.
+Inspired by [djlastnight's Keyboard Splitter](https://github.com/djlastnight/KeyboardSplitterXbox) for Windows. Not affiliated with it, or with Bandai Namco or Valve.
